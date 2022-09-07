@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NetoLoader</string>
+    <string name="title_courses_groups">Изучайте актуальные темы</string>
+
+    <!-- Для склонения счётчика курсов -->
+    <plurals name="plurals_courses_counter">
+        <item quantity="zero">нет курсов</item>
+        <item quantity="one">%1$d курс</item>
+        <item quantity="few">%1$d курса</item>
+        <item quantity="many">%1$d курсов</item>
+    </plurals>
+</resources>
